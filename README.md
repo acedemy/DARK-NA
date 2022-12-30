@@ -10,4 +10,4 @@
 6. ***Star ⭐ repo if you like Astro.***
 ### Thanks To
 
-###### - [SamPandey001](https://github.com/SamPandey001/Secktor-Md) for Base
+###### - [VIHAGA YT](https://github.com/SamPandey001/Secktor-Md) for Base
