@@ -82,7 +82,7 @@ cmd(
        if(!isCreator) return citel.reply(tlang().owner);
        if(!text) return citel.reply('Please provide key.\n_Eg: .delvar PORT_')
        let check = await get_deployments()
-       if(check==='true') return citel.reply('_Please wait..._\n_Currently 2 instances are running in Koyeb,wait to stop one of them._')
+       if(check==='true') return citel.reply('_Please wait☑️..._\n_Currently 2 instances are running in Koyeb,wait to stop one of them._')
        let data = await delvar(text)
        return citel.reply(data)
   })
